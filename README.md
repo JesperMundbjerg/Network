@@ -2,7 +2,7 @@
 
 For running the files in this repository, python3 must be installed. 
 On linux it is also necessary to allow execution by running command
-  $ chmod +x filename
+	$ chmod +x filename
 
 The files can be run with the following command line arguments:
 
