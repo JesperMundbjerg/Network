@@ -24,4 +24,6 @@ Examples:
 	$ tpudpserver 37
 
 	$ tptcpserver 37
+	
+Servers must be started before clients. 
   
